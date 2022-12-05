@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #303C54;
+}
+
+.report{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.report--card{
+    background-color: #fff;
+    width: 1100px;
+    margin-top: 50px;
+}
